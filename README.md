@@ -24,12 +24,22 @@ Clean messy sales data and analyze revenue performance by region.
 
 ## 📊 Key Insight
 - Region-level revenue trends are reliable  
-- Product-level insights may be biased due to data loss  
+- Product-level insights may be biased  
 
 ---
 
-## ⚠️ Data Note
-~85% data removed due to missing values → analysis based on clean subset.
+## ⚠️ Data Note (Important)
+- ~85% of records were removed due to missing critical fields  
+- Remaining ~15% data was used for analysis  
+
+### Why analysis is still valid:
+- Region distribution before and after cleaning remained similar  
+- Sales statistics (mean, median, spread) remained consistent  
+- This indicates the cleaned data still represents overall trends  
+
+👉 Therefore:
+- Region-based insights are **reliable**  
+- Product-level insights should be used **with caution**
 
 ---
 
