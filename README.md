@@ -49,5 +49,8 @@ Python, Pandas
 ---
 
 ## 📁 Files
-- `sales_analysis.py`
-- `sales_mini_project_1.csv`
+## 📁 Files
+- `sales_analysis.py` → Data cleaning and analysis code  
+- `sales_mini_project_1.csv` → Raw dataset  
+- `sales_cleaned_output.csv` → Cleaned dataset used for analysis  
+- `regional_revenue_summary.csv` → Final output (region-wise revenue)  
