@@ -1,0 +1,87 @@
+Order_ID,Customer_Name,Region,Product,Sales,Quantity,Discount,Order_Date,Category,Revenue_After_Discount,Order_Month,Order_Year
+ORD1002,Tina Sandoval,East,Tablet,11158.03,2.0,0.0,2026-06-02,Electronics,11158.03,6,2026
+ORD1004,Joshua Carter,North,Tablet,19316.25,3.0,0.0,2026-10-01,Electronics,19316.25,10,2026
+ORD1019,Ronald Hill,North,Printer,42641.46,4.0,0.38,2025-09-07,Office,26437.71,9,2025
+ORD1021,Autumn Roach,West,Keyboard,11051.14,3.0,0.0,2026-03-26,Accessories,11051.14,3,2026
+ORD1023,Jacqueline Stafford,South,Keyboard,31894.78,8.0,0.36,2025-03-09,Accessories,20412.66,3,2025
+ORD1027,Matthew Fitzgerald,West,Laptop,13706.88,1.0,0.0,2025-02-09,Electronics,13706.88,2,2025
+ORD1033,Ms. Jennifer Rodriguez,East,Tablet,5122.67,5.0,0.06,2025-06-26,Electronics,4815.31,6,2025
+ORD1043,Kevin Davidson,North,Mouse,12307.97,4.0,0.0,2025-07-27,Accessories,12307.97,7,2025
+ORD1049,,West,Laptop,32472.19,8.0,0.0,2025-07-18,Electronics,32472.19,7,2025
+ORD1060,,East,Mouse,22076.31,8.0,0.0,2025-11-12,Accessories,22076.31,11,2025
+ORD1065,Lydia Hughes,West,Mouse,46132.47,5.0,0.0,2026-08-02,Accessories,46132.47,8,2026
+ORD1074,Matthew Lopez,West,Tablet,19542.32,4.0,0.0,2026-03-26,Electronics,19542.32,3,2026
+ORD1084,Cesar Reyes,North,Keyboard,3896.2,10.0,0.13,2026-03-03,Accessories,3389.69,3,2026
+ORD1085,Cody Dickerson,North,Keyboard,40026.43,1.0,0.32,2026-02-27,Accessories,27217.97,2,2026
+ORD1092,Justin Brewer,East,Tablet,17906.49,3.0,0.0,2025-06-27,Electronics,17906.49,6,2025
+ORD1095,Joshua Howard,South,Mouse,38953.36,1.0,0.3,2025-03-07,Accessories,27267.35,3,2025
+ORD1101,David Martinez,North,Mouse,10098.23,6.0,0.0,2026-01-22,Accessories,10098.23,1,2026
+ORD1109,Matthew Olsen,South,Laptop,17415.75,4.0,0.03,2026-07-04,Electronics,16893.28,7,2026
+ORD1114,,East,Laptop,20124.47,4.0,0.15,2025-04-06,Electronics,17105.8,4,2025
+ORD1117,Amy Morales,South,Laptop,36067.94,10.0,0.23,2025-07-08,Electronics,27772.31,7,2025
+ORD1129,Stephanie Wilson,South,Printer,24954.09,10.0,0.19,2026-07-01,Office,20212.81,7,2026
+ORD1134,Timothy Hodge,West,Printer,32274.41,5.0,0.03,2025-06-01,Office,31306.18,6,2025
+ORD1140,James Smith,South,Printer,39847.41,9.0,0.0,2025-05-24,Office,39847.41,5,2025
+ORD1141,Kevin Green,South,Laptop,40296.31,10.0,0.0,2025-11-28,Electronics,40296.31,11,2025
+ORD1147,Michael Smith,East,Printer,34666.88,8.0,0.0,2026-03-16,Office,34666.88,3,2026
+ORD1154,Scott Moore,North,Tablet,42879.25,9.0,0.03,2025-12-02,Electronics,41592.87,12,2025
+ORD1160,,South,Printer,36302.36,4.0,0.0,2025-06-28,Office,36302.36,6,2025
+ORD1170,Tammy David,South,Laptop,37470.52,4.0,0.0,2026-04-02,Electronics,37470.52,4,2026
+ORD1171,Renee Brown,East,Monitor,44199.19,8.0,0.0,2025-08-12,Electronics,44199.19,8,2025
+ORD1180,Bradley Green,South,Mouse,35779.21,2.0,0.0,2026-03-24,Accessories,35779.21,3,2026
+ORD1186,Samantha Collins,South,Tablet,15406.0,7.0,0.0,2025-04-24,Electronics,15406.0,4,2025
+ORD1195,Dwayne Mckay,West,Printer,34989.78,2.0,0.32,2025-09-29,Office,23793.05,9,2025
+ORD1200,James Smith,North,Laptop,7497.25,7.0,0.0,2026-03-27,Electronics,7497.25,3,2026
+ORD1205,Catherine Rich,South,Monitor,30707.96,3.0,0.31,2026-01-13,Electronics,21188.49,1,2026
+ORD1210,Monica Chen,East,Monitor,6964.42,6.0,0.0,2025-01-09,Electronics,6964.42,1,2025
+ORD1213,Ashley Anderson,North,Tablet,24101.93,9.0,0.0,2025-08-23,Electronics,24101.93,8,2025
+ORD1217,Colleen Bush,North,Tablet,37518.26,8.0,0.0,2025-12-29,Electronics,37518.26,12,2025
+ORD1221,Katie Drake,North,Tablet,22006.94,10.0,0.12,2025-09-18,Electronics,19366.11,9,2025
+ORD1226,Chad Norton,North,Keyboard,9377.55,2.0,0.0,2025-12-13,Accessories,9377.55,12,2025
+ORD1232,Benjamin Martin,West,Monitor,27028.27,5.0,0.11,2025-09-16,Electronics,24055.16,9,2025
+ORD1235,,East,Mouse,29325.03,1.0,0.0,2025-08-10,Accessories,29325.03,8,2025
+ORD1242,,North,Printer,9190.06,4.0,0.0,2025-04-09,Office,9190.06,4,2025
+ORD1249,Frederick Norman,East,Monitor,16276.49,3.0,0.06,2025-10-14,Electronics,15299.9,10,2025
+ORD1298,,North,Mouse,27616.4,9.0,0.0,2025-12-14,Accessories,27616.4,12,2025
+ORD1310,,South,Laptop,8110.85,6.0,0.03,2025-11-30,Electronics,7867.52,11,2025
+ORD1333,,South,Mouse,43899.93,5.0,0.28,2025-10-07,Accessories,31607.95,10,2025
+ORD1334,,South,Printer,16137.13,3.0,0.0,2026-04-13,Office,16137.13,4,2026
+ORD1338,Stephen Davidson,East,Laptop,36362.49,9.0,0.28,2025-11-30,Electronics,26180.99,11,2025
+ORD1345,,South,Keyboard,46604.11,6.0,0.0,2025-12-08,Accessories,46604.11,12,2025
+ORD1362,Rachel Carpenter,North,Keyboard,17522.3,8.0,0.0,2025-11-14,Accessories,17522.3,11,2025
+ORD1365,Kristopher Bryant,South,Mouse,23039.48,10.0,0.08,2026-04-13,Accessories,21196.32,4,2026
+ORD1367,Karl Joseph,West,Keyboard,39675.52,2.0,0.0,2025-09-13,Accessories,39675.52,9,2025
+ORD1368,Jacob Jones,South,Printer,40953.91,7.0,0.1,2025-05-10,Office,36858.52,5,2025
+ORD1373,Stephen White,North,Monitor,40373.51,7.0,0.0,2025-09-19,Electronics,40373.51,9,2025
+ORD1377,Johnathan Lee,North,Keyboard,26398.43,3.0,0.04,2026-02-18,Accessories,25342.49,2,2026
+ORD1383,Monica Hardin,West,Printer,22893.97,1.0,0.24,2026-01-03,Office,17399.42,1,2026
+ORD1385,Anthony Ortiz,South,Laptop,13616.91,5.0,0.0,2025-07-05,Electronics,13616.91,7,2025
+ORD1391,Kim Marshall,South,Keyboard,20972.31,4.0,0.14,2025-04-20,Accessories,18036.19,4,2025
+ORD1392,,North,Mouse,22302.94,4.0,0.3,2025-01-10,Accessories,15612.06,1,2025
+ORD1393,Sandra Carter,North,Tablet,43503.24,2.0,0.18,2025-04-09,Electronics,35672.66,4,2025
+ORD1404,Joann Sparks Dvm,South,Monitor,11700.52,5.0,0.3,2026-03-10,Electronics,8190.36,3,2026
+ORD1419,Sheila Rodriguez,North,Laptop,10458.76,2.0,0.0,2025-05-07,Electronics,10458.76,5,2025
+ORD1424,Isaac Wilson,South,Keyboard,9163.13,2.0,0.0,2025-09-19,Accessories,9163.13,9,2025
+ORD1438,,South,Printer,3589.32,9.0,0.0,2025-09-29,Office,3589.32,9,2025
+ORD1463,Amber Ali,North,Printer,3274.7,7.0,0.0,2026-01-12,Office,3274.7,1,2026
+ORD1467,Harry Torres,North,Printer,14057.72,6.0,0.18,2025-12-19,Office,11527.33,12,2025
+ORD1479,Jennifer Graham,North,Monitor,34811.41,6.0,0.1,2025-09-25,Electronics,31330.27,9,2025
+ORD1482,Anthony Webb,South,Tablet,45545.2,2.0,0.15,2025-05-31,Electronics,38713.42,5,2025
+ORD1491,Pamela Williams,North,Keyboard,1733.8,8.0,0.0,2026-02-24,Accessories,1733.8,2,2026
+ORD1500,,North,Laptop,28495.94,2.0,0.21,2025-10-06,Electronics,22511.79,10,2025
+ORD1504,Matthew Johnson,South,Mouse,21158.64,1.0,0.0,2025-10-06,Accessories,21158.64,10,2025
+ORD1508,Jason Krueger,South,Laptop,47465.18,9.0,0.2,2025-09-09,Electronics,37972.14,9,2025
+ORD1515,,West,Keyboard,7795.02,8.0,0.09,2025-08-27,Accessories,7093.47,8,2025
+ORD1521,Julia Miles,South,Keyboard,21693.34,7.0,0.26,2026-01-30,Accessories,16053.07,1,2026
+ORD1523,,North,Keyboard,19198.01,6.0,0.32,2025-05-06,Accessories,13054.65,5,2025
+ORD1524,Patricia Payne,South,Keyboard,22081.56,2.0,0.11,2025-08-06,Accessories,19652.59,8,2025
+ORD1528,Jack Shaw,West,Printer,37448.46,7.0,0.34,2025-11-24,Office,24715.98,11,2025
+ORD1529,Allen Lindsey,South,Monitor,30261.0,4.0,0.08,2026-01-14,Electronics,27840.12,1,2026
+ORD1531,Nathaniel Mcclure,East,Laptop,45078.46,2.0,0.38,2025-05-29,Electronics,27948.65,5,2025
+ORD1533,Julie Stewart,North,Monitor,14090.09,5.0,0.0,2025-08-05,Electronics,14090.09,8,2025
+ORD1537,,North,Tablet,41248.29,7.0,0.29,2025-12-07,Electronics,29286.29,12,2025
+ORD1543,Shannon Summers,South,Tablet,43165.87,8.0,0.05,2026-04-03,Electronics,41007.58,4,2026
+ORD1195,Dwayne Mckay,West,Printer,34989.78,2.0,0.32,2025-09-29,Office,23793.05,9,2025
+ORD1109,Matthew Olsen,South,Laptop,17415.75,4.0,0.03,2026-07-04,Electronics,16893.28,7,2026
+ORD1084,Cesar Reyes,North,Keyboard,3896.2,10.0,0.13,2026-03-03,Accessories,3389.69,3,2026
+ORD1368,Jacob Jones,South,Printer,40953.91,7.0,0.1,2025-05-10,Office,36858.52,5,2025
