@@ -1,0 +1,576 @@
+Order_ID,Customer_Name,Region,Product,Sales,Quantity,Discount,Order_Date,Category
+ORD1000,Lori Jones,South,TABLET,12622.15,,0.17,2025-04-15,Electronics
+ORD1001,Michael Ward,north ,mouse,35215.59,,0.11,23/09/2025,Accessories
+ORD1002, Tina Sandoval , EAST ,tablet,11158.03,2,,02-06-2026,Electronics
+,,north ,Laptop,,10,0.23,2026-04-10,Electronics
+ORD1004, Joshua Carter ,North,tablet,19316.25,3,,2026-01-10,Electronics
+,JOHN WILLIAMS,north ,printer,,,0.13,17/07/2025,Office
+ORD1006,, EAST ,Laptop,,,,01/06/2025,Electronics
+ORD1007,AUSTIN BROWN,South,KEYBOARD,,7,0.4,,Accessories
+ORD1008,Abigail Davis,south,laptop,39707.93,,,2025-05-24,Electronics
+,Ronald Figueroa,South,TABLET,17338.69,3,,02/04/2026,Electronics
+ORD1010, Patricia Jackson ,South,printer,,,0.13,2025-05-31,Office
+ORD1011,ALEXANDRA YOUNG,North,keyboard,43961.48,,0.31,,Accessories
+ORD1012, Tyler Lynch ,north ,,,5,,,Office
+ORD1013,Victor Simmons,south,printer,,4,0.0,16/06/2025,Office
+ORD1014, Katherine Johnson ,North,laptop,,,,,Electronics
+ORD1015,Michael Jackson,South,,,1,,2025-09-28,Accessories
+ORD1016,BRYAN COOLEY,north ,,9582.66,2,0.32,2025-07-09,Accessories
+,Cindy Sanchez,North,tablet,8732.4,7,,09-04-2025,Electronics
+ORD1018,,South,,8162.44,10,0.3,2025-12-17,Electronics
+ORD1019,RONALD HILL,North,Printer,42641.46,4,0.38,2025-07-09,Office
+ORD1020,,South,PRINTER,,4,,,Office
+ORD1021,Autumn Roach,West,Keyboard,11051.14,3,,03-26-2026,Accessories
+ORD1022, John Richard ,north ,Mouse,,3,0.05,25/09/2025,Accessories
+ORD1023,JACQUELINE STAFFORD,South,KEYBOARD,31894.78,8,0.36,2025-09-03,Accessories
+ORD1024, Eric Anderson ,North,Tablet,6975.57,,0.28,2025-10-26,Electronics
+,DONNA CHEN DDS,north ,Laptop,41812.45,7,0.12,10-19-2025,Electronics
+,TIFFANY COOPER DVM,South,Mouse,28214.23,10,0.35,,Accessories
+ORD1027, Matthew Fitzgerald ,West,laptop,13706.88,1,,09-02-2025,Electronics
+ORD1028,OSCAR BUTLER,North,keyboard,20224.07,,,2025-08-26,Accessories
+ORD1029,SCOTT PATEL,north ,LAPTOP,30030.28,,0.39,,Electronics
+ORD1030, Alexandria Browning ,North,,,6,,01-26-2026,Office
+ORD1031, Tamara Rodriguez ,north ,TABLET,,5,,11/11/2025,Electronics
+, James Contreras ,West,Printer,,6,0.18,,Office
+ORD1033,Ms. Jennifer Rodriguez, EAST ,TABLET,5122.67,5,0.06,26/06/2025,Electronics
+,Paul Mason,West,,,8,0.1,2025-05-18,Electronics
+ORD1035,ABIGAIL CARTER,South,,2985.81,3,,,Electronics
+,,north ,,37310.94,8,,,Office
+ORD1037, Victoria Roberts ,West,Tablet,12107.43,6,0.06,,Electronics
+ORD1038,SCOTT RICHARDS,North,,27359.25,4,0.16,,Electronics
+ORD1039, Michael Vargas , EAST ,,47694.8,,,05/04/2026,Electronics
+ORD1040,,North,,34117.52,3,0.39,,Accessories
+,Michael Torres,North,,7217.12,7,,03-20-2026,Office
+ORD1042,, EAST ,Monitor,23780.19,,0.03,2025-09-24,Electronics
+ORD1043,Kevin Davidson,north ,mouse,12307.97,4,,27/07/2025,Accessories
+,Michael Jenkins,south,PRINTER,1771.08,7,0.38,2026-04-09,Office
+,KATHY THOMAS,North,PRINTER,42589.52,1,,2025-11-18,Office
+, Rebecca Johnson MD ,North,,5724.17,3,,,Office
+ORD1047, Brian Estrada , EAST ,monitor,4789.81,,,01-14-2026,Electronics
+ORD1048, Angel Smith MD ,south,,39992.7,,0.35,13/06/2025,Electronics
+ORD1049,,West,laptop,32472.19,8,,18/07/2025,Electronics
+, Bill Moore ,West,KEYBOARD,37423.8,8,0.12,2026-03-31,Accessories
+ORD1051, Joshua Martin ,North,tablet,37060.93,,0.11,16/02/2026,Electronics
+ORD1052, Kayla Baird ,south,KEYBOARD,26939.69,,0.12,,Accessories
+ORD1053, Ryan Wade ,West,,22303.21,5,,,Electronics
+,Laura Ward,south,laptop,40651.53,,0.31,,Electronics
+ORD1055, Jillian Jones ,north ,,,,0.08,14/03/2026,Electronics
+ORD1056,Jason Harrell,south,Mouse,34623.87,5,,,Accessories
+,ABIGAIL WARD, EAST ,laptop,,3,0.03,06-23-2025,Electronics
+, Riley Coffey ,West,Printer,15552.51,,0.2,2025-08-12,Office
+, George Jones ,north ,MONITOR,,10,,2026-01-21,Electronics
+ORD1060,, EAST ,mouse,22076.31,8,,2025-12-11,Accessories
+ORD1061,,South,,,1,,2025-09-08,Accessories
+,Veronica Murray,South,,9785.34,,0.18,07/08/2025,Electronics
+,KIMBERLY FIGUEROA, EAST ,,44101.91,,0.06,,Accessories
+ORD1064,Steven Clements,West,Laptop,,,,,Electronics
+ORD1065,LYDIA HUGHES,West,mouse,46132.47,5,,2026-02-08,Accessories
+, James Lee ,north ,,22604.1,,,,Accessories
+ORD1067,STEVEN KAUFMAN,north ,,12061.34,,,,Accessories
+,JENNIFER PAUL,West,Tablet,48285.0,2,,2025-10-09,Electronics
+ORD1069,,South,tablet,39185.5,,0.16,02-18-2026,Electronics
+,, EAST ,,43682.96,4,,2025-11-05,Electronics
+,Cheyenne Campbell,West,tablet,34853.06,1,,13/08/2025,Electronics
+,,north ,mouse,4408.93,4,0.37,21/10/2025,Accessories
+, Anthony Berg ,West,MONITOR,44995.97,5,,01-05-2026,Electronics
+ORD1074, Matthew Lopez ,West,TABLET,19542.32,4,,03-26-2026,Electronics
+,, EAST ,Laptop,,,,14/03/2026,Electronics
+ORD1076,MARY STEPHENSON,South,printer,,,,,Office
+, Terry Jefferson ,South,laptop,,7,,06-03-2025,Electronics
+ORD1078,, EAST ,MOUSE,40309.51,,,08-24-2025,Accessories
+ORD1079,Brian Morgan, EAST ,Laptop,,10,,2025-08-04,Electronics
+ORD1080,,North,TABLET,45805.17,,0.16,2025-07-24,Electronics
+ORD1081,,North,Laptop,27108.56,,,08/01/2026,Electronics
+,Karen Blanchard,West,,,4,0.18,12-14-2025,Electronics
+, Jessica Peters ,north ,LAPTOP,3497.23,,0.08,2025-08-17,Electronics
+ORD1084,CESAR REYES,north ,keyboard,3896.2,10,0.13,2026-03-03,Accessories
+ORD1085,CODY DICKERSON,north ,KEYBOARD,40026.43,1,0.32,02-27-2026,Accessories
+ORD1086, Joe Nguyen ,North,laptop,,8,0.31,,Electronics
+ORD1087,Katherine King,South,PRINTER,23173.1,7,,,Office
+ORD1088, Troy Ferguson ,north ,laptop,,,,,Electronics
+,,North,Printer,,7,,10-09-2025,Office
+ORD1090,,South,Monitor,15969.92,,0.37,2025-05-18,Electronics
+ORD1091,,North,LAPTOP,,9,,04-10-2026,Electronics
+ORD1092,Justin Brewer, EAST ,TABLET,17906.49,3,,06-27-2025,Electronics
+ORD1093,YESENIA HOUSTON,West,Laptop,,5,,10-13-2025,Electronics
+ORD1094,TAMMY HALL MD,south,,3944.48,2,,05-30-2025,Accessories
+ORD1095, Joshua Howard ,South,MOUSE,38953.36,1,0.3,2025-07-03,Accessories
+ORD1096,,West,,,6,,05-26-2025,Accessories
+ORD1097,,north ,Laptop,880.51,5,0.13,,Electronics
+ORD1098,MELVIN HUNTER,south,,,2,0.34,,Electronics
+ORD1099,Anthony Miller, EAST ,,35620.2,2,,29/10/2025,Electronics
+ORD1100, Chelsey King ,North,,,7,,09-11-2025,Office
+ORD1101,DAVID MARTINEZ,North,Mouse,10098.23,6,,22/01/2026,Accessories
+,KATRINA SHAH,South,Mouse,38755.98,,,02-28-2026,Accessories
+ORD1103,Jonathan Diaz,West,,,,,,Accessories
+ORD1104, Katie Murillo , EAST ,Laptop,32410.99,,0.15,,Electronics
+,ANDREW HAYES, EAST ,,47907.26,,0.03,2025-10-09,Office
+,,West,mouse,45937.87,,,2025-09-27,Accessories
+ORD1107,, EAST ,KEYBOARD,,3,0.23,08-14-2025,Accessories
+,,south,Keyboard,19145.63,3,,05-16-2025,Accessories
+ORD1109, Matthew Olsen ,south,laptop,17415.75,4,0.03,2026-04-07,Electronics
+ORD1110,SABRINA KEY,north ,,,,,11-02-2025,Electronics
+,PATRICIA GONZALEZ,West,TABLET,37743.36,4,,07/05/2025,Electronics
+,,West,KEYBOARD,25393.88,,,2025-10-14,Accessories
+ORD1113, Seth Best ,north ,Tablet,35714.35,5,0.11,,Electronics
+ORD1114,, EAST ,Laptop,20124.47,4,0.15,06-04-2025,Electronics
+, Peter Hodge ,south,laptop,45911.11,8,0.25,2026-04-09,Electronics
+ORD1116,IAN PALMER,north ,,14761.03,2,,2025-09-27,Accessories
+ORD1117,Amy Morales,South,laptop,36067.94,10,0.23,2025-08-07,Electronics
+ORD1118,Jose Thomas,north ,Printer,,6,,2025-06-13,Office
+ORD1119,John Ward,north ,KEYBOARD,17938.8,,0.19,24/03/2026,Accessories
+,,North,LAPTOP,10478.75,,,05-08-2025,Electronics
+,JULIE DEAN, EAST ,LAPTOP,,6,,,Electronics
+ORD1122,, EAST ,tablet,,,,22/10/2025,Electronics
+ORD1123, Deborah Jordan ,North,Printer,15134.18,10,,,Office
+, Michael Cook ,north ,,14090.49,7,0.21,2025-11-23,Electronics
+,,North,mouse,39036.51,,0.01,,Accessories
+ORD1126,,North,keyboard,,5,0.01,,Accessories
+ORD1127,Janice Stephens, EAST ,PRINTER,,5,0.05,,Office
+,,North,MOUSE,,5,0.34,04-23-2025,Accessories
+ORD1129,Stephanie Wilson,south,printer,24954.09,10,0.19,2026-01-07,Office
+ORD1130,,South,,,3,,,Electronics
+, April Williams ,south,tablet,,,0.06,14/03/2026,Electronics
+,ERIKA MARTINEZ, EAST ,KEYBOARD,,9,0.25,12/12/2025,Accessories
+,VANESSA IRWIN,south,PRINTER,42205.24,,,06/01/2026,Office
+ORD1134,Timothy Hodge,West,PRINTER,32274.41,5,0.03,01/06/2025,Office
+ORD1135,,West,monitor,,6,,2026-01-28,Electronics
+ORD1136,,North,KEYBOARD,22755.0,,0.17,10-25-2025,Accessories
+, Ruth Rogers ,south,printer,25978.88,5,,,Office
+ORD1138, Timothy Weaver ,North,Mouse,,,0.0,,Accessories
+ORD1139, Sheri Taylor ,West,MOUSE,,,,,Accessories
+ORD1140,James Smith,south,Printer,39847.41,9,,2025-05-24,Office
+ORD1141,KEVIN GREEN,South,LAPTOP,40296.31,10,,28/11/2025,Electronics
+, Mrs. Megan Zuniga DVM ,north ,MONITOR,25730.85,5,,01-05-2026,Electronics
+ORD1143,,north ,TABLET,,10,0.11,2025-11-20,Electronics
+ORD1144,WILLIAM SIMON,north ,,7814.9,10,,,Office
+ORD1145,PAULA JOHNSON,West,,43704.48,3,,,Accessories
+ORD1146,,north ,KEYBOARD,,10,0.08,04-13-2026,Accessories
+ORD1147,MICHAEL SMITH, EAST ,PRINTER,34666.88,8,,03-16-2026,Office
+,,West,LAPTOP,40328.48,,,08-28-2025,Electronics
+ORD1149,ELIZABETH NOLAN,south,TABLET,46684.68,,0.23,2025-06-25,Electronics
+,TIMOTHY BENNETT,South,tablet,,,0.31,06/01/2026,Electronics
+,,West,monitor,14718.63,,0.23,05/02/2026,Electronics
+ORD1152,Madison Thompson,West,,37575.66,1,0.23,04-14-2025,Electronics
+ORD1153,,south,,40536.29,,0.1,2026-03-29,Accessories
+ORD1154, Scott Moore ,north ,tablet,42879.25,9,0.03,02/12/2025,Electronics
+ORD1155, Robert Hill ,south,Mouse,12158.3,,0.29,03-03-2026,Accessories
+ORD1156,TYLER JONES,North,Tablet,,,,12-28-2025,Electronics
+ORD1157,NICOLE RAMOS,south,,,,,30/08/2025,Office
+,Joseph Oconnor,north ,,,,0.36,11/06/2025,Accessories
+ORD1159,,North,mouse,,1,,,Accessories
+ORD1160,,South,PRINTER,36302.36,4,,2025-06-28,Office
+ORD1161,Sean Townsend,West,Printer,14710.99,6,,,Office
+,MELISSA ROBERTS,South,LAPTOP,49645.92,,0.39,2025-10-26,Electronics
+ORD1163,,north ,,12751.85,3,0.37,2025-06-27,Accessories
+ORD1164,Danielle Moran,south,tablet,29900.24,10,,,Electronics
+,MICHELLE RUSSELL,North,mouse,,,,16/09/2025,Accessories
+ORD1166,JAMES COX,West,KEYBOARD,,,,,Accessories
+ORD1167,,West,printer,,8,0.12,,Office
+,,West,laptop,13122.28,8,0.04,2026-03-27,Electronics
+ORD1169,Michelle Fox,North,keyboard,,4,,05-19-2025,Accessories
+ORD1170,TAMMY DAVID,South,Laptop,37470.52,4,,02-04-2026,Electronics
+ORD1171, Renee Brown , EAST ,MONITOR,44199.19,8,,12-08-2025,Electronics
+ORD1172,MITCHELL BAXTER,South,monitor,,7,,10/10/2025,Electronics
+,ANTHONY HALL,West,MONITOR,,8,,02/02/2026,Electronics
+,,south,Mouse,26435.25,1,0.05,2025-10-31,Accessories
+ORD1175,Jennifer Lee,south,,,,0.2,,Electronics
+ORD1176, Jennifer Santiago ,north ,LAPTOP,,7,0.37,12/12/2025,Electronics
+, Alexa Wade , EAST ,MOUSE,4411.45,8,0.4,06-22-2025,Accessories
+ORD1178,Mario Mcpherson,North,,19273.57,1,,02-21-2026,Electronics
+ORD1179,Michelle Rocha,south,printer,,8,,2025-06-08,Office
+ORD1180,Bradley Green,south,mouse,35779.21,2,,03-24-2026,Accessories
+,JAMES LEWIS,South,Monitor,25289.25,2,,,Electronics
+ORD1182, Julie Hill ,West,,27875.37,,,2025-05-20,Accessories
+ORD1183,MICHAEL NGUYEN,South,Printer,,7,0.14,2026-02-07,Office
+ORD1184, Jason Mcdowell , EAST ,Keyboard,9775.89,,0.16,2025-11-10,Accessories
+,David Mckenzie,north ,KEYBOARD,1110.86,,0.36,02/05/2025,Accessories
+ORD1186,SAMANTHA COLLINS,south,TABLET,15406.0,7,,2025-04-24,Electronics
+ORD1187,NATHAN SWEENEY,South,,29893.42,3,,,Accessories
+ORD1188, Lauren Garcia ,West,keyboard,,8,,07-15-2025,Accessories
+,,north ,keyboard,14374.86,,0.08,2025-06-06,Accessories
+ORD1190,ANGELA MEDINA,West,TABLET,3923.35,,,17/08/2025,Electronics
+ORD1191,,North,,24222.12,,0.17,10-28-2025,Electronics
+,Timothy Elliott,North,tablet,,,,03-25-2026,Electronics
+ORD1193,Deborah Smith,North,MONITOR,,10,,,Electronics
+,MICHELLE KENNEDY, EAST ,Tablet,24397.17,3,,29/10/2025,Electronics
+ORD1195, Dwayne Mckay ,West,Printer,34989.78,2,0.32,2025-09-29,Office
+,Kristopher Martin,South,keyboard,,3,,,Accessories
+ORD1197,PERRY PARKS,south,,20081.33,10,0.16,25/04/2025,Accessories
+,Alexandra Rosales,north ,Keyboard,27076.01,4,,12-07-2025,Accessories
+ORD1199,,north ,Printer,,,0.24,05-10-2025,Office
+ORD1200, James Smith ,North,laptop,7497.25,7,,27/03/2026,Electronics
+,KAYLA MEDINA,north ,monitor,7444.68,8,0.35,,Electronics
+ORD1202,,north ,,,8,0.03,05/11/2025,Accessories
+ORD1203, George Herring ,south,KEYBOARD,,,0.05,07-06-2025,Accessories
+ORD1204,Robert Flowers,South,,27544.49,4,,2025-05-28,Office
+ORD1205,CATHERINE RICH,south,MONITOR,30707.96,3,0.31,2026-01-13,Electronics
+ORD1206, Gerald Thomas ,north ,printer,35350.66,,0.39,20/04/2025,Office
+ORD1207, Mark Smith ,South,monitor,35220.61,,0.16,03-20-2026,Electronics
+ORD1208,,West,Tablet,31864.57,,,,Electronics
+ORD1209,Deborah Russo,South,Monitor,,,,03/11/2025,Electronics
+ORD1210, Monica Chen , EAST ,MONITOR,6964.42,6,,2025-09-01,Electronics
+ORD1211,,West,Laptop,,3,,2026-01-16,Electronics
+ORD1212, Randall Zhang ,North,TABLET,33393.19,,0.28,,Electronics
+ORD1213,Ashley Anderson,North,tablet,24101.93,9,,2025-08-23,Electronics
+,ANDREW NASH,West,Monitor,11832.87,6,0.35,,Electronics
+,JO HENDRIX,North,Mouse,8623.77,3,,06/01/2026,Accessories
+ORD1216,MRS. REBECCA JENKINS MD,North,,17901.01,,,2025-09-08,Electronics
+ORD1217,COLLEEN BUSH,north ,tablet,37518.26,8,,2025-12-29,Electronics
+ORD1218, Darren White , EAST ,printer,42029.18,,,2025-07-27,Office
+,Kelsey Patton,North,LAPTOP,46167.67,,,,Electronics
+ORD1220,Erin Prince,South,tablet,,,0.13,07-03-2025,Electronics
+ORD1221,KATIE DRAKE,North,tablet,22006.94,10,0.12,2025-09-18,Electronics
+,TINA SMITH,South,Laptop,,9,,2026-01-09,Electronics
+ORD1223,, EAST ,Laptop,,8,0.2,,Electronics
+ORD1224, Brittany Dixon ,south,PRINTER,,,0.2,2025-05-31,Office
+ORD1225,, EAST ,,46051.21,9,,06-19-2025,Accessories
+ORD1226, Chad Norton ,North,Keyboard,9377.55,2,,12-13-2025,Accessories
+,,North,LAPTOP,28408.43,4,,18/07/2025,Electronics
+,ERIC GAINES,south,Tablet,,1,,06-20-2025,Electronics
+ORD1229,JASMINE COHEN MD,West,,48078.66,5,,01-14-2026,Electronics
+,Kirk Mathis,north ,Monitor,32042.18,,0.02,06/07/2025,Electronics
+ORD1231, Joyce Carroll ,West,KEYBOARD,16243.86,,0.04,30/09/2025,Accessories
+ORD1232, Benjamin Martin ,West,Monitor,27028.27,5,0.11,2025-09-16,Electronics
+, Robin Navarro ,South,Mouse,11143.53,4,0.16,11-11-2025,Accessories
+ORD1234,Pamela Lewis,West,,28019.71,8,0.05,03/02/2026,Accessories
+ORD1235,, EAST ,Mouse,29325.03,1,,10/08/2025,Accessories
+ORD1236,Kevin York,North,,46244.52,7,,28/04/2025,Electronics
+ORD1237,TIMOTHY GREEN, EAST ,KEYBOARD,,10,,,Accessories
+ORD1238,Andrew Rich,North,PRINTER,,,0.4,,Office
+ORD1239,,north ,,28499.73,7,0.01,2025-11-23,Electronics
+ORD1240,,north ,KEYBOARD,38458.69,,0.1,08/03/2026,Accessories
+ORD1241, Amy Barker ,south,printer,,6,,14/10/2025,Office
+ORD1242,,north ,PRINTER,9190.06,4,,2025-09-04,Office
+,JUAN GONZALEZ,south,KEYBOARD,45979.65,1,0.23,2025-10-04,Accessories
+ORD1244,Melvin Tran, EAST ,,17159.77,,,08-31-2025,Office
+, Tammy Schmidt ,south,mouse,36832.75,,,2026-03-29,Accessories
+, Bryan Smith ,north ,mouse,5653.46,,,10-16-2025,Accessories
+,Kendra Horton,South,MOUSE,22608.18,6,0.31,2026-03-26,Accessories
+ORD1248,,south,,,2,0.32,23/08/2025,Electronics
+ORD1249,Frederick Norman, EAST ,Monitor,16276.49,3,0.06,2025-10-14,Electronics
+,,South,Keyboard,,7,0.04,09/10/2025,Accessories
+, Donald Morgan ,South,MONITOR,5247.84,9,,2026-02-09,Electronics
+ORD1252, Kristina Lopez ,South,,10383.9,2,,,Electronics
+ORD1253, Carolyn Newton ,North,,44331.89,3,,12-24-2025,Electronics
+ORD1254,Ashley Bell,south,Mouse,,7,,,Accessories
+,,north ,printer,,,0.36,2025-04-18,Office
+ORD1256,GREGORY ALVAREZ,south,monitor,,,,07-25-2025,Electronics
+ORD1257,Carla Williams,West,,,,,2025-07-18,Electronics
+ORD1258,RACHEL JOHNSON,north ,Monitor,46283.94,9,,,Electronics
+ORD1259,,North,tablet,,1,,11/01/2026,Electronics
+,, EAST ,LAPTOP,40960.6,5,0.34,27/07/2025,Electronics
+ORD1261,, EAST ,MOUSE,36575.57,4,,,Accessories
+ORD1262,Amanda Holland,north ,printer,35623.69,,0.01,25/12/2025,Office
+ORD1263,Mrs. Nancy Norton,West,Laptop,35379.38,,0.16,2026-03-01,Electronics
+ORD1264,,north ,,,6,,2025-12-10,Accessories
+ORD1265,,North,keyboard,42764.16,,,2025-04-26,Accessories
+ORD1266,,south,tablet,918.95,,,,Electronics
+ORD1267,, EAST ,monitor,,7,,05-07-2025,Electronics
+,Tonya Newton,West,Keyboard,14185.92,,,19/01/2026,Accessories
+,LORI JONES,North,,,8,,,Accessories
+,Robert Ellis,north ,monitor,,,,21/04/2025,Electronics
+,LAWRENCE BRIGGS, EAST ,Tablet,,,0.36,14/11/2025,Electronics
+ORD1272, Andre Miller ,West,KEYBOARD,29485.75,2,0.35,,Accessories
+,Justin Sloan,South,,26727.01,4,,08/07/2025,Accessories
+,CHRISTINE BROWN,North,,49338.7,1,0.11,08/04/2026,Accessories
+ORD1275,JESSE BARNES,north ,,20467.98,7,,2025-05-09,Electronics
+,LARRY MCCANN,North,Keyboard,,6,,18/08/2025,Accessories
+ORD1277, Nancy Evans , EAST ,,30020.31,3,,08-14-2025,Electronics
+ORD1278,,North,mouse,11603.91,,,2025-07-18,Accessories
+, Joshua Hill ,north ,Monitor,29899.24,,,,Electronics
+, Gail Meza ,West,laptop,10672.0,,,19/06/2025,Electronics
+ORD1281,Logan Larson, EAST ,Monitor,,,,,Electronics
+ORD1282,Charles Vasquez,north ,,34566.09,6,0.01,2025-10-23,Accessories
+,,south,Printer,,,,11-28-2025,Office
+ORD1284,Kristin Murphy,south,Monitor,,,0.05,2026-03-17,Electronics
+,MELISSA BARTON, EAST ,MOUSE,47776.91,6,,,Accessories
+ORD1286,,South,,40095.01,,0.29,2025-09-05,Electronics
+,,north ,,19297.66,,0.35,,Electronics
+ORD1288,,West,Monitor,3635.13,,,2025-04-20,Electronics
+,JESSICA WRIGHT,West,MONITOR,33353.68,9,0.0,,Electronics
+ORD1290,Melanie Jones,West,MONITOR,12424.14,,,01/08/2025,Electronics
+ORD1291,,north ,,25173.58,,0.26,,Electronics
+ORD1292,Melissa Williams,North,MONITOR,,6,0.33,,Electronics
+,,South,KEYBOARD,,1,,11-23-2025,Accessories
+ORD1294,Adam Bowen,south,,,2,0.24,2025-09-10,Electronics
+ORD1295,,south,MONITOR,,2,0.18,,Electronics
+,Patrick Parker,north ,,,3,0.29,2025-10-31,Electronics
+, Holly Pugh ,north ,,,5,,,Electronics
+ORD1298,,north ,MOUSE,27616.4,9,,12-14-2025,Accessories
+ORD1299,ERIN MILLER,north ,TABLET,,,,07-19-2025,Electronics
+ORD1300,Mark Blake,North,,7693.67,3,0.27,2025-11-23,Electronics
+ORD1301,EMMA MILLER,north ,Tablet,,,,15/12/2025,Electronics
+, Zachary Olson ,South,Printer,,6,,15/07/2025,Office
+ORD1303,LISA SMITH,South,PRINTER,,4,0.18,19/08/2025,Office
+,Jamie Allen,West,Mouse,21711.14,10,,29/09/2025,Accessories
+ORD1305, Mathew Lindsey ,north ,Laptop,,,0.22,01-10-2026,Electronics
+ORD1306,JOHN SANTOS,north ,Printer,,9,0.14,12-10-2025,Office
+ORD1307, Derek Zuniga ,south,,,,0.14,06/02/2026,Accessories
+, Jamie Odom ,West,Laptop,27241.75,9,,,Electronics
+ORD1309,MICHAEL YORK, EAST ,Laptop,,,0.03,,Electronics
+ORD1310,,South,Laptop,8110.85,6,0.03,11-30-2025,Electronics
+ORD1311,COURTNEY SMITH, EAST ,,31695.75,1,0.27,2025-04-29,Office
+,Chad Brooks,South,Tablet,25390.43,5,,,Electronics
+,Kara Morris,West,monitor,7250.88,,,2025-09-10,Electronics
+,MARK LOPEZ,North,Printer,,2,,20/07/2025,Office
+,DUSTIN HARRIS,south,monitor,11429.0,,0.32,,Electronics
+,Jonathan Gill, EAST ,Tablet,,6,0.05,2025-04-19,Electronics
+,Rodney Pratt,south,KEYBOARD,,5,,09-26-2025,Accessories
+ORD1318,Brian Lewis, EAST ,monitor,,5,,,Electronics
+ORD1319, Joe Palmer , EAST ,,,2,0.36,10-11-2025,Electronics
+,Kevin Kelley,South,Tablet,,,0.16,2025-09-29,Electronics
+ORD1321,,South,printer,,3,0.2,,Office
+,Kenneth Atkinson,South,keyboard,,3,0.18,15/07/2025,Accessories
+,, EAST ,Tablet,11331.55,5,0.02,06-27-2025,Electronics
+ORD1324,,North,Monitor,,,0.11,,Electronics
+ORD1325, Warren Fuller ,north ,Tablet,26074.81,7,,,Electronics
+,Jeff Brown,north ,monitor,,5,,2025-12-13,Electronics
+ORD1327,, EAST ,Tablet,24335.07,,0.33,09/10/2025,Electronics
+ORD1328,GAIL JENKINS,south,Laptop,44594.48,,0.38,11-13-2025,Electronics
+ORD1329,,north ,,8943.06,,0.33,04-22-2025,Electronics
+, Erik Galloway ,West,Mouse,11875.78,,,12/09/2025,Accessories
+ORD1331,EMILY MARTIN,West,Printer,43948.76,,0.05,,Office
+ORD1332, Charles Rodriguez ,North,,40213.86,,0.36,,Office
+ORD1333,,south,Mouse,43899.93,5,0.28,2025-07-10,Accessories
+ORD1334,,South,printer,16137.13,3,,04-13-2026,Office
+ORD1335, Sara Ryan ,north ,PRINTER,49594.03,,,,Office
+ORD1336, Katherine Eaton ,South,,,4,0.31,2025-06-27,Accessories
+,, EAST ,Mouse,8456.53,3,,2025-05-13,Accessories
+ORD1338,STEPHEN DAVIDSON, EAST ,Laptop,36362.49,9,0.28,30/11/2025,Electronics
+ORD1339,,North,tablet,,5,0.31,21/02/2026,Electronics
+ORD1340, Mrs. Melissa Serrano ,south,Tablet,4798.72,,0.16,2025-05-18,Electronics
+,Gary Alvarado,North,TABLET,,6,0.09,,Electronics
+,Juan Leblanc, EAST ,monitor,20653.16,5,,04-12-2026,Electronics
+ORD1343,,north ,,37994.93,8,,2025-08-04,Electronics
+,JESUS NIXON,South,monitor,20915.09,9,,23/05/2025,Electronics
+ORD1345,,South,KEYBOARD,46604.11,6,,08/12/2025,Accessories
+,LINDSEY COLE,West,tablet,12481.8,4,,24/07/2025,Electronics
+ORD1347,Cathy Roberson,South,,,8,,06-02-2025,Electronics
+ORD1348, Tina Perry ,West,monitor,,,,,Electronics
+ORD1349,,North,,,,,02-10-2026,Electronics
+, Nicholas Thomas ,south,MOUSE,30847.66,8,,06-02-2025,Accessories
+ORD1351,,south,monitor,48973.99,,,20/08/2025,Electronics
+,TIFFANY RIVERA,West,Mouse,,,,10-27-2025,Accessories
+,Kathleen Russell,West,Keyboard,3471.8,2,,04-14-2025,Accessories
+, Lori Rocha , EAST ,Keyboard,,,0.23,05-25-2025,Accessories
+ORD1355,,South,,19363.01,8,,,Accessories
+,,North,Tablet,11796.79,,,,Electronics
+,,West,keyboard,,,0.28,31/12/2025,Accessories
+ORD1358,Carla Duncan,North,Mouse,46871.29,,0.31,2025-10-10,Accessories
+,ELIZABETH JENKINS,North,,12746.13,8,0.21,2025-10-02,Accessories
+, Robert Huynh , EAST ,,43609.46,9,0.39,,Electronics
+,,north ,TABLET,45491.7,8,,25/02/2026,Electronics
+ORD1362,Rachel Carpenter,north ,keyboard,17522.3,8,,11-14-2025,Accessories
+ORD1363,Troy Brown,north ,PRINTER,44167.02,7,,,Office
+ORD1364,Dustin Walsh,West,mouse,,,,,Accessories
+ORD1365,KRISTOPHER BRYANT,south,MOUSE,23039.48,10,0.08,13/04/2026,Accessories
+,Patricia Ramirez,south,Laptop,6689.44,1,,19/05/2025,Electronics
+ORD1367, Karl Joseph ,West,KEYBOARD,39675.52,2,,2025-09-13,Accessories
+ORD1368,JACOB JONES,south,PRINTER,40953.91,7,0.1,10/05/2025,Office
+,Eric Montes,north ,monitor,34231.39,,0.29,04-24-2025,Electronics
+, Kevin Guerra ,south,MONITOR,44432.22,,0.17,02/01/2026,Electronics
+,David Day,West,keyboard,,8,0.15,21/08/2025,Accessories
+ORD1372,Mike Thomas,South,MOUSE,,1,0.26,30/12/2025,Accessories
+ORD1373, Stephen White ,north ,MONITOR,40373.51,7,,2025-09-19,Electronics
+,,north ,MONITOR,,9,,01-09-2026,Electronics
+,DAVID DAVIS,North,printer,,6,,11/03/2026,Office
+, Katelyn Price ,north ,laptop,,,0.27,02-28-2026,Electronics
+ORD1377, Johnathan Lee ,North,Keyboard,26398.43,3,0.04,2026-02-18,Accessories
+,,South,,35215.04,1,0.24,2025-09-08,Electronics
+,,North,,,,,2026-03-08,Accessories
+ORD1380, Diane Smith ,North,tablet,,9,0.08,19/04/2025,Electronics
+,,South,Printer,,8,0.07,,Office
+ORD1382,RICHARD TATE,north ,,,6,,04-05-2026,Office
+ORD1383,MONICA HARDIN,West,PRINTER,22893.97,1,0.24,03-01-2026,Office
+ORD1384,NICHOLAS BROWN,south,LAPTOP,,,0.22,2025-04-22,Electronics
+ORD1385, Anthony Ortiz ,south,laptop,13616.91,5,,05/07/2025,Electronics
+ORD1386, Cole Sanchez ,West,tablet,,,0.26,,Electronics
+ORD1387, Jessica Lee , EAST ,,21117.82,,,2026-02-21,Electronics
+,Alexandria Bradley, EAST ,keyboard,16678.17,7,0.3,14/04/2025,Accessories
+ORD1389,,south,monitor,,9,,,Electronics
+ORD1390,REBECCA HUNTER,West,tablet,24649.12,,0.21,2026-03-28,Electronics
+ORD1391, Kim Marshall ,South,Keyboard,20972.31,4,0.14,04-20-2025,Accessories
+ORD1392,,north ,mouse,22302.94,4,0.3,2025-10-01,Accessories
+ORD1393,SANDRA CARTER,north ,tablet,43503.24,2,0.18,09-04-2025,Electronics
+,MICHAEL KELLY,south,MOUSE,27665.6,,0.36,02-25-2026,Accessories
+ORD1395, Amanda Ali ,south,MOUSE,3127.72,,,2025-12-14,Accessories
+ORD1396,,south,,35629.6,,0.04,,Electronics
+,Monica Fischer,North,printer,15593.91,7,,04-04-2026,Office
+ORD1398,JAMES COBB,north ,TABLET,31476.72,9,,,Electronics
+ORD1399,Richard Nguyen,South,,,4,,04-10-2026,Electronics
+ORD1400,,north ,printer,,3,0.28,,Office
+,ELIZABETH GEORGE, EAST ,Mouse,28088.34,3,,,Accessories
+ORD1402,,South,MONITOR,8021.87,,0.25,08/08/2025,Electronics
+,Samantha Bennett, EAST ,Mouse,,,0.26,,Accessories
+ORD1404,JOANN SPARKS DVM,south,monitor,11700.52,5,0.3,10/03/2026,Electronics
+ORD1405,,north ,,34549.2,7,,01-18-2026,Electronics
+,Megan Heath,north ,Monitor,22854.67,,0.16,,Electronics
+,Crystal Pierce,south,PRINTER,44277.68,3,0.12,22/03/2026,Office
+,,North,Monitor,,3,,2025-04-18,Electronics
+ORD1409,LAURA VARGAS,West,Mouse,,3,,03-05-2026,Accessories
+,,South,laptop,19244.59,,0.35,19/06/2025,Electronics
+,Shelly Kelly,West,MOUSE,38547.21,5,0.36,2025-10-05,Accessories
+ORD1412,Randy Warren,West,,42842.85,10,,,Office
+ORD1413,James Tapia,north ,Monitor,,9,0.07,08-01-2025,Electronics
+ORD1414,Shane Young MD,South,LAPTOP,16890.0,7,0.27,,Electronics
+, Nicholas Shannon ,North,Tablet,16479.68,,,13/05/2025,Electronics
+, Kristen Livingston , EAST ,,,,0.29,,Electronics
+, Victoria Garcia ,West,TABLET,,,,,Electronics
+,NANCY LOPEZ,South,MOUSE,48973.25,,,,Accessories
+ORD1419, Sheila Rodriguez ,north ,laptop,10458.76,2,,2025-07-05,Electronics
+, Brent Ballard , EAST ,,36357.63,4,,,Electronics
+,KIMBERLY HARRIS,West,laptop,,8,0.37,08-25-2025,Electronics
+, Lauren Mcbride ,north ,Printer,34431.92,3,,,Office
+,PAUL BROWN,north ,,6283.81,1,,09/11/2025,Electronics
+ORD1424, Isaac Wilson ,south,KEYBOARD,9163.13,2,,19/09/2025,Accessories
+ORD1425,,South,MOUSE,38888.89,9,,,Accessories
+,Richard Norton,North,TABLET,,6,0.36,06-03-2025,Electronics
+, Julie Thomas ,South,laptop,10031.01,6,,09/05/2025,Electronics
+ORD1428,Angel Jones,North,Mouse,17840.75,,0.32,29/06/2025,Accessories
+ORD1429, Whitney Atkinson ,north ,,,2,,,Electronics
+,,north ,MOUSE,,2,0.23,,Accessories
+ORD1431, Christian Marshall ,South,,23792.02,5,,11-02-2025,Electronics
+ORD1432,Xavier Savage,North,,6087.91,,0.23,,Electronics
+ORD1433, Lisa Reed ,north ,Tablet,26870.91,10,0.25,,Electronics
+ORD1434, Nancy Boyd ,south,,22050.01,9,0.27,,Electronics
+,, EAST ,Laptop,9220.61,2,,07-25-2025,Electronics
+,Michael Johnson,North,monitor,,,,,Electronics
+,,south,printer,,,,2025-06-22,Office
+ORD1438,,south,PRINTER,3589.32,9,,2025-09-29,Office
+ORD1439,,South,MOUSE,20598.62,,0.07,16/10/2025,Accessories
+ORD1440, David Wright ,West,printer,14779.31,3,0.26,,Office
+ORD1441,ELIZABETH HART,North,tablet,21084.85,,,,Electronics
+ORD1442,SHERRI MOORE,south,,,9,,2025-12-18,Electronics
+,,South,LAPTOP,,,,,Electronics
+ORD1444,Danielle Snyder,south,,,,0.12,12-29-2025,Office
+ORD1445,,West,,16909.94,5,,04-20-2025,Office
+,,north ,laptop,32987.83,1,0.19,2025-09-18,Electronics
+ORD1447,RAYMOND PRICE,north ,KEYBOARD,,2,0.36,,Accessories
+ORD1448, Joshua Barron ,South,keyboard,24503.47,6,0.24,,Accessories
+ORD1449,SHAWN JONES,South,,,,0.11,2025-08-08,Electronics
+ORD1450,,West,MOUSE,,,,08-21-2025,Accessories
+,,North,MOUSE,,,0.38,02-20-2026,Accessories
+, Mrs. Lisa Mendoza , EAST ,MONITOR,,7,0.31,26/01/2026,Electronics
+ORD1453,SEAN HAMPTON, EAST ,Printer,33803.69,,,08-02-2025,Office
+, Carlos Pugh , EAST ,mouse,2185.07,,0.26,2025-12-15,Accessories
+ORD1455,,South,printer,34934.85,,,06-09-2025,Office
+, Stephen Snyder , EAST ,monitor,39146.2,7,,06-03-2025,Electronics
+ORD1457,Dustin Marshall,West,mouse,9332.89,,0.31,2025-04-18,Accessories
+, Carla Pope ,North,Monitor,28781.56,1,0.06,2025-12-23,Electronics
+ORD1459, Jessica Pace ,south,TABLET,,8,0.16,29/04/2025,Electronics
+ORD1460,,North,LAPTOP,17005.27,,,2026-01-06,Electronics
+ORD1461,JONATHON VALDEZ,south,Monitor,33206.34,,,2025-07-21,Electronics
+ORD1462,KATHERINE JOHNSON,south,Tablet,,8,,,Electronics
+ORD1463,Amber Ali,North,PRINTER,3274.7,7,,12/01/2026,Office
+,HENRY HARRIS,North,Tablet,36905.26,8,0.1,2025-07-01,Electronics
+,Jeffrey Barker, EAST ,Mouse,,2,0.2,2025-07-18,Accessories
+ORD1466, Sara Lopez ,South,,,3,0.33,2025-12-17,Accessories
+ORD1467, Harry Torres ,North,Printer,14057.72,6,0.18,19/12/2025,Office
+,,south,Laptop,44041.53,,,,Electronics
+ORD1469,NICOLE ROMERO,south,tablet,26392.8,,0.28,,Electronics
+ORD1470, Mark Hall , EAST ,,726.22,,0.14,,Office
+,SHARON MEADOWS, EAST ,Tablet,,8,0.06,2026-02-27,Electronics
+ORD1472, Monica Harris ,south,,31032.56,,0.02,31/08/2025,Electronics
+ORD1473,Daniel May,North,laptop,29838.98,,,19/07/2025,Electronics
+ORD1474,KENNETH STRICKLAND,North,laptop,43559.37,2,0.23,,Electronics
+ORD1475,,south,,18987.51,6,0.13,2025-10-29,Accessories
+ORD1476,Tony Hardy,West,,21202.08,5,0.32,30/09/2025,Accessories
+ORD1477,,south,,,7,0.13,27/05/2025,Electronics
+ORD1478,,North,Printer,,,0.16,,Office
+ORD1479,Jennifer Graham,north ,Monitor,34811.41,6,0.1,2025-09-25,Electronics
+, Christopher Farmer ,south,,42967.14,8,,14/05/2025,Electronics
+,,South,Keyboard,,6,,09/11/2025,Accessories
+ORD1482, Anthony Webb ,South,Tablet,45545.2,2,0.15,05-31-2025,Electronics
+ORD1483,Rodney Hoover,north ,keyboard,,,0.38,09/08/2025,Accessories
+ORD1484, Benjamin Torres ,north ,,3636.77,,0.21,,Accessories
+, Mary Brown ,West,TABLET,40095.24,4,0.03,07-07-2025,Electronics
+ORD1486,MADISON BELL, EAST ,Laptop,35005.56,1,0.17,,Electronics
+ORD1487,,South,Keyboard,14930.08,6,,,Accessories
+,,West,PRINTER,44964.96,3,,2025-07-23,Office
+ORD1489, Daniel Herrera ,West,mouse,,5,0.34,11/12/2025,Accessories
+ORD1490,Michael Rosario, EAST ,mouse,22323.99,,,10/07/2025,Accessories
+ORD1491,PAMELA WILLIAMS,north ,KEYBOARD,1733.8,8,,02-24-2026,Accessories
+ORD1492,DR. KAYLA PAYNE,north ,,6059.62,,,2026-01-13,Electronics
+,JOSEPH VALDEZ,West,MONITOR,,,,11/09/2025,Electronics
+ORD1494,,South,Laptop,20023.97,,0.2,04-17-2025,Electronics
+ORD1495,, EAST ,,14590.19,,,,Electronics
+ORD1496,AMY PHILLIPS,South,,,10,,10-21-2025,Electronics
+,,North,Laptop,45763.32,9,0.28,04/01/2026,Electronics
+ORD1498, Angela Tran ,north ,,,,0.3,2026-04-09,Accessories
+ORD1499, Kelly Summers , EAST ,,33462.72,3,0.36,2025-10-22,Electronics
+ORD1500,,North,LAPTOP,28495.94,2,0.21,06-10-2025,Electronics
+,Kyle Arnold,south,MOUSE,34817.51,1,,2026-02-09,Accessories
+ORD1502,Edward Allen,north ,keyboard,38438.9,,,05-17-2025,Accessories
+, Edward Sullivan ,North,KEYBOARD,,6,0.16,2025-05-11,Accessories
+ORD1504,MATTHEW JOHNSON,south,Mouse,21158.64,1,,06/10/2025,Accessories
+, Kyle Jones DDS ,south,MONITOR,1923.6,,0.09,27/07/2025,Electronics
+ORD1506,,South,Mouse,38847.27,1,0.01,,Accessories
+ORD1507,Sheila Luna,North,LAPTOP,33545.53,,0.36,04-28-2025,Electronics
+ORD1508,JASON KRUEGER,South,LAPTOP,47465.18,9,0.2,2025-09-09,Electronics
+ORD1509,JOSEPH MERCADO,South,printer,,1,,07-08-2025,Office
+,ASHLEY CARTER,West,Tablet,18063.71,,0.09,12-13-2025,Electronics
+ORD1511,Christina Brown,north ,laptop,18381.9,9,0.13,,Electronics
+ORD1512, Wendy Wilkins ,South,,20660.47,2,,16/05/2025,Accessories
+,,South,Laptop,,2,0.16,02/04/2026,Electronics
+ORD1514,RICHARD ROBBINS, EAST ,laptop,29950.56,,,,Electronics
+ORD1515,,West,KEYBOARD,7795.02,8,0.09,2025-08-27,Accessories
+,Miss Christy Vargas,North,,48617.59,10,0.12,2025-10-18,Electronics
+,,West,tablet,,9,0.32,2025-04-27,Electronics
+ORD1518,,West,MONITOR,42717.28,,,08/07/2025,Electronics
+ORD1519,MICHAEL MORRIS, EAST ,,,,,,Electronics
+ORD1520,Mr. Jake Hamilton,West,PRINTER,,5,0.02,08/04/2026,Office
+ORD1521,Julia Miles,South,KEYBOARD,21693.34,7,0.26,30/01/2026,Accessories
+ORD1522,Christopher Lopez,South,Tablet,43512.53,9,,,Electronics
+ORD1523,,north ,Keyboard,19198.01,6,0.32,06/05/2025,Accessories
+ORD1524, Patricia Payne ,south,KEYBOARD,22081.56,2,0.11,06-08-2025,Accessories
+ORD1525,DENISE DANIEL,north ,Printer,,6,,,Office
+ORD1526,Brian Moore,South,MOUSE,,9,,,Accessories
+,BREANNA CLARK,North,tablet,,,,2025-08-06,Electronics
+ORD1528, Jack Shaw ,West,printer,37448.46,7,0.34,24/11/2025,Office
+ORD1529, Allen Lindsey ,South,monitor,30261.0,4,0.08,01-14-2026,Electronics
+ORD1530,,West,Monitor,10498.53,,0.22,,Electronics
+ORD1531,Nathaniel Mcclure, EAST ,LAPTOP,45078.46,2,0.38,29/05/2025,Electronics
+,Lisa Farley,north ,LAPTOP,,6,,09/12/2025,Electronics
+ORD1533,JULIE STEWART,North,monitor,14090.09,5,,2025-05-08,Electronics
+,,West,keyboard,48184.11,,,2025-09-20,Accessories
+,Amber Parker,South,Tablet,34688.78,9,,2026-03-07,Electronics
+ORD1536,,West,Printer,19952.29,5,0.12,,Office
+ORD1537,,North,TABLET,41248.29,7,0.29,07/12/2025,Electronics
+ORD1538,Amy Powell, EAST ,,,,0.01,27/06/2025,Electronics
+ORD1539,TIMOTHY PETERS,North,,,2,0.1,,Electronics
+ORD1540,,South,keyboard,34529.61,5,0.17,,Accessories
+,MONICA JOHNSON,North,Monitor,,2,0.08,2026-04-14,Electronics
+,,north ,MONITOR,7887.93,10,,,Electronics
+ORD1543,Shannon Summers,south,tablet,43165.87,8,0.05,03/04/2026,Electronics
+,RODNEY ANDERSON,West,keyboard,7724.17,,0.18,01-19-2026,Accessories
+,,North,Printer,,,,10-11-2025,Office
+ORD1546,Elaine Lopez,North,LAPTOP,23811.15,,0.3,2025-09-17,Electronics
+,, EAST ,,,1,,08-16-2025,Accessories
+ORD1548,Keith Reyes, EAST ,,7518.89,8,,01-01-2026,Electronics
+, Kristin Austin ,north ,KEYBOARD,,,,2025-07-01,Accessories
+ORD1195, Dwayne Mckay ,West,Printer,34989.78,2,0.32,2025-09-29,Office
+ORD1079,Brian Morgan, EAST ,Laptop,,10,,2025-08-04,Electronics
+, Christopher Farmer ,south,,42967.14,8,,14/05/2025,Electronics
+ORD1109, Matthew Olsen ,south,laptop,17415.75,4,0.03,2026-04-07,Electronics
+ORD1522,Christopher Lopez,South,Tablet,43512.53,9,,,Electronics
+,Lisa Farley,north ,LAPTOP,,6,,09/12/2025,Electronics
+ORD1084,CESAR REYES,north ,keyboard,3896.2,10,0.13,2026-03-03,Accessories
+ORD1368,JACOB JONES,south,PRINTER,40953.91,7,0.1,10/05/2025,Office
+,ERIKA MARTINEZ, EAST ,KEYBOARD,,9,0.25,12/12/2025,Accessories
+ORD1364,Dustin Walsh,West,mouse,,,,,Accessories
+ORD1184, Jason Mcdowell , EAST ,Keyboard,9775.89,,0.16,2025-11-10,Accessories
+ORD1010, Patricia Jackson ,South,printer,,,0.13,2025-05-31,Office
+, Anthony Berg ,West,MONITOR,44995.97,5,,01-05-2026,Electronics
+ORD1220,Erin Prince,South,tablet,,,0.13,07-03-2025,Electronics
+ORD1278,,North,mouse,11603.91,,,2025-07-18,Accessories
+,Karen Blanchard,West,,,4,0.18,12-14-2025,Electronics
+ORD1382,RICHARD TATE,north ,,,6,,04-05-2026,Office
+ORD1006,, EAST ,Laptop,,,,01/06/2025,Electronics
+ORD1218, Darren White , EAST ,printer,42029.18,,,2025-07-27,Office
+ORD1448, Joshua Barron ,South,keyboard,24503.47,6,0.24,,Accessories
+ORD1396,,south,,35629.6,,0.04,,Electronics
+ORD1167,,West,printer,,8,0.12,,Office
+,,south,Laptop,44041.53,,,,Electronics
+ORD1172,MITCHELL BAXTER,South,monitor,,7,,10/10/2025,Electronics
+ORD1081,,North,Laptop,27108.56,,,08/01/2026,Electronics
